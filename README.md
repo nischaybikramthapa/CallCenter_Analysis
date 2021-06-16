@@ -1,5 +1,5 @@
 # Understanding Customers from Call Center Data
-
+## Author: Nischay Thapa
 A real advertising company wants to improve their sales and understand their customers where they are mostly facing issues. The goal of the company is to delight their customers. This data is used only here as an educational purpose not elsewhere.
 
 ## Objective
